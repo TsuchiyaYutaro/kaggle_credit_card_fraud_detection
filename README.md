@@ -5,5 +5,5 @@ kaggle での IEEE-CIS Fraud Detection の作業ノート
 以下のページからデータセットをダウンロード<br>
 https://www.kaggle.com/c/ieee-fraud-detection/data
 
-# 最終成績
+# Private Score
 top 20% ...
