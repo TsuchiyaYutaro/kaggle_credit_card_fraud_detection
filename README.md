@@ -2,6 +2,8 @@
 kaggle での IEEE-CIS Fraud Detection の作業ノート
 
 # Setup
-
 以下のページからデータセットをダウンロード<br>
 https://www.kaggle.com/c/ieee-fraud-detection/data
+
+# 最終成績
+top 20% ...
